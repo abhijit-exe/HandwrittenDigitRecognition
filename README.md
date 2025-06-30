@@ -16,7 +16,6 @@ This is a production-grade digit & character recognition system using Convolutio
 
 ## Project Structure
 - Google Colab notebook
-- saved models
 - output plots & screenshots
 
 ## License
